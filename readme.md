@@ -10,7 +10,7 @@ thanks to https://github.com/magicismight/react-native-root-toast.git
 
 ### How to use
 
-```
+``` js
 import Alert from 'rn-alert';
 #set custom text style , is just need to set font
 # not require
