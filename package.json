@@ -1,6 +1,6 @@
 {
   "name": "rn-alert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react native alert component",
   "main": "index.js",
   "scripts": {
