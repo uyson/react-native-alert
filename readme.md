@@ -6,9 +6,10 @@
 
 thanks to https://github.com/magicismight/react-native-root-toast.git
 ### Install 
-`npm install rn-alert
+`npm install rn-alert`
 
 ### How to use
+
 ```
 import Alert from 'github:uyson/react-native-alert';
 #set custom text style , is just need to set font
@@ -32,8 +33,8 @@ Alert.alert(
 			}
 		},
 	]
-	)
-	```
+)
+```
 	
 	
 	
