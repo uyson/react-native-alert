@@ -10,7 +10,7 @@ thanks to https://github.com/magicismight/react-native-root-toast.git
 
 ### How to use
 ```
-import Alert from 'rn-alert';
+import Alert from 'github:uyson/react-native-alert';
 #set custom text style , is just need to set font
 # not require
 var styles = StyleSheet.create({
