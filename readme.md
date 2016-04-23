@@ -2,6 +2,8 @@
 
 #### Features
 1. Pure javascript solution.
+
+
 thanks to https://github.com/magicismight/react-native-root-toast.git
 ### Install 
 `npm install rn-alert
